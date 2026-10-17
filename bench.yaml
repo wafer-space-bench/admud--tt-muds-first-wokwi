@@ -1,0 +1,26 @@
+source:
+  url: https://github.com/admud/tt-muds-first-wokwi
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf26d
+  slot: tt_um_wokwi_476093216227788801
+  project: Mud’s first Wokwi design
+  size: 1x1
+  kind: digital (Wokwi)
+  commit: c8ed174f0183140f0557580701946e5b540a33b5
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf26d/tt_um_wokwi_476093216227788801
+  branch: tapeout/tinytapeout/ttgf26d/tt_um_wokwi_476093216227788801
+  page: https://app.tinytapeout.com/shuttles/ttgf26d
+generated: '2026-10-17T23:00:59Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf26d/tt_um_wokwi_476093216227788801
+- upstream/main
